@@ -8,4 +8,4 @@
 
 ![StandWithPalestine](assets/StandWithPalestine.svg)
 
-Reach me via: [Portfolio](https://xcoderdz.github.io/xcoderdz/) • [GitHub](github.com/xcoderdz) • [Telegram](https://t.me/xcoderdz) • [Facebook](m.facebook.com/profile.php?id=61556191507009)
+Reach me via: [Portfolio](https://xcoderdz.github.io/xcoderdz/) • [Telegram](https://t.me/xcoderdz) • [Facebook](m.facebook.com/profile.php?id=61556191507009)
