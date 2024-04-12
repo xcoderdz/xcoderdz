@@ -6,6 +6,6 @@
     <q>Small details make the biggest difference.</q>
   </p>
 
-[![StandWithPalestine](assets/StandWithPalestine.svg)
+![StandWithPalestine](assets/StandWithPalestine.svg)
 
 Reach me via: [Portfolio](https://xcoder.github.io/xcoder/) • [GitHub](github.com/xcoderdz) • [Telegram](https://t.me/xcoderdz) • [Facebook](m.facebook.com/profile.php?id=61556191507009)
