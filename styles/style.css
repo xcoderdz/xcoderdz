@@ -1,1 +1,21 @@
+body {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 14px;
+  text-align: center;
+  background-color: #FFFCEC;
+}
 
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+  
+hr {
+  width: 50%;
+}
